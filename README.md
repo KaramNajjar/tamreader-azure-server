@@ -1,0 +1,1 @@
+# tamreader-azure-server
