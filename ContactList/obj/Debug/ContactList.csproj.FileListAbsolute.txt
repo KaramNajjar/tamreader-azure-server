@@ -1,0 +1,87 @@
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\ContactList.dll.config
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\ContactList.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\ContactList.pdb
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\Newtonsoft.Json.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\Swashbuckle.Core.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\System.Net.Http.Formatting.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\System.Web.Http.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\System.Web.Http.WebHost.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\WebActivatorEx.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\Newtonsoft.Json.xml
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\System.Net.Http.Formatting.xml
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\System.Web.Http.xml
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\System.Web.Http.WebHost.xml
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\obj\Debug\ContactList.csprojResolveAssemblyReference.cache
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\obj\Debug\ContactList.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\obj\Debug\ContactList.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\ContactList.dll.config
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\ContactList.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\ContactList.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\Microsoft.Data.Edm.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\Microsoft.Data.OData.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\Microsoft.Data.Services.Client.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\Newtonsoft.Json.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\Swashbuckle.Core.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\System.Net.Http.Formatting.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\System.Spatial.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\System.Web.Http.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\System.Web.Http.WebHost.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\WebActivatorEx.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\Microsoft.Data.Edm.xml
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\Microsoft.Data.OData.xml
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\Microsoft.Data.Services.Client.xml
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\Newtonsoft.Json.xml
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\System.Spatial.xml
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\System.Net.Http.Formatting.xml
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\System.Web.Http.xml
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\System.Web.Http.WebHost.xml
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\de\System.Spatial.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\es\System.Spatial.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\fr\System.Spatial.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\it\System.Spatial.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\ja\System.Spatial.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\ko\System.Spatial.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\ru\System.Spatial.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\obj\Debug\ContactList.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\obj\Debug\ContactList.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\tamreaderApi\ContactList\obj\Debug\ContactList.pdb

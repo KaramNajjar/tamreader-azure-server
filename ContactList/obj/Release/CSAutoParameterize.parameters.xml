@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="StorageConnectionString-Web.config Connection String" description="StorageConnectionString Connection String used in web.config by the application to access the database." defaultValue="DefaultEndpointsProtocol=https;AccountName=tamreaderstrorage;AccountKey=qwaxI+06cq2OAcZ6bfvNq9kuq3KLvW+KwUTDSzJk88PNZKefuhp/e4vrD0kIXHlVuKrnHMjUzrW4BrboztJrSQ==" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\dell\\Documents\\Visual\ Studio\ 2015\\Projects\\tamreaderApi\\ContactList\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='StorageConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
