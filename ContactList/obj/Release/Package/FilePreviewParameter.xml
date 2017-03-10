@@ -4,7 +4,7 @@
     <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\dell\\Documents\\Visual\ Studio\ 2015\\Projects\\tamreaderApi\\ContactList\\obj\\Release\\Package\\PackageTmp$" />
     <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\dell\\Documents\\Visual\ Studio\ 2015\\Projects\\tamreaderApi\\ContactList\\obj\\Release\\Package\\PackageTmp$" />
   </parameter>
-  <parameter name="StorageConnectionString-Web.config Connection String" description="StorageConnectionString Connection String used in web.config by the application to access the database." value="DefaultEndpointsProtocol=https;AccountName=tamreaderstrorage;AccountKey=WFn6UA99+mw/ZO3LDEQbeitQnUZQATr9ALI+fhrd8uQpPH7yoZIsWiFsa5q0K+sj+/x2A4AUouiz1z4gf5rQgQ==" tags="SqlConnectionString">
+  <parameter name="StorageConnectionString-Web.config Connection String" description="" value="DefaultEndpointsProtocol=https;AccountName=tamreaderstrorage;AccountKey=qwaxI+06cq2OAcZ6bfvNq9kuq3KLvW+KwUTDSzJk88PNZKefuhp/e4vrD0kIXHlVuKrnHMjUzrW4BrboztJrSQ==" tags="">
     <parameterEntry kind="XmlFile" scope="C:\\Users\\dell\\Documents\\Visual\ Studio\ 2015\\Projects\\tamreaderApi\\ContactList\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='StorageConnectionString']/@connectionString" />
   </parameter>
 </parameters>

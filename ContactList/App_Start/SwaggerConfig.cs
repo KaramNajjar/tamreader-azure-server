@@ -72,7 +72,7 @@ namespace ContactList
                         //    .AuthorizationUrl("http://petstore.swagger.wordnik.com/api/oauth/dialog")
                         //    //.TokenUrl("https://tempuri.org/token")
                         //    .Scopes(scopes =>
-                        //    {
+                        //    {x
                         //        scopes.Add("read", "Read access to protected resources");
                         //        scopes.Add("write", "Write access to protected resources");
                         //    });

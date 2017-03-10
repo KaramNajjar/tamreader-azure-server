@@ -16,7 +16,8 @@ namespace ContactList.Controllers
         
         public SignsController()
         {
-            SignsLogic.CreateSignsTable();
+            SignsLogic.CreateSignsTable("Signs");
+            SignsLogic.CreateSignsTable("Users");
         }
 
         /// <summary>
@@ -61,12 +62,15 @@ namespace ContactList.Controllers
         [HttpPost]
         [SwaggerResponse(HttpStatusCode.Created,
             Description = "Post",
-            Type = typeof(Sign))]
+            Type = typeof(userSign))]
         [Route("~/Signs")]
-        public Sign Post([FromBody] Sign sign)
+        public userSign Post([FromBody] userSign usign)
         {
-            SignsLogic.AddSign(sign);
-            return sign;
+            
+            SignsLogic.AddSign(usign.Us);
+            SignsLogic.AddUserInfo(usign);
+
+            return usign;
         }
 
         /*
